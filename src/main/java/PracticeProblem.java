@@ -15,13 +15,4 @@ public class PracticeProblem {
 	public static void q3() {
 		//Write question 3 code here
 	}
-
-	public static void q4() {
-		//Write question 4 code here
-	}
-
-	public static void q5() {
-		//Write question 5 code here
-	}
-
 }
